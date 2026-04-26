@@ -1,0 +1,25 @@
+# Dependencias
+node_modules/
+
+# Build de producción
+dist/
+
+# Variables de entorno (pueden tener contraseñas o claves)
+.env
+.env.local
+.env.*.local
+
+# Cache de Vite
+.vite/
+
+# Documentación
+README.md
+.readme
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
